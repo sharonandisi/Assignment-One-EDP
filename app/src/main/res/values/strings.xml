@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Event Driven Programming</string>
+    <string name="validate">Validate</string>
+    <string name="username">Username</string>
+    <string name="send_student_string_event">Send Student String Event</string>
+    <string name="send_student_obj_event">Send Student Obj Event</string>
+
+    <string name="yourname">Name</string>
+    <string name="submit">Submit</string>
+    <string name="phone_number">phone_number</string>
+    <string name="test">test</string>
+    <string name="checkbox">checkbox</string>
+    <string name="button">Validate</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+
+    <string name="submit1">SUBMIT</string>
+    <string name="textview5">textview</string>
+    <string name="submit3">SUBMIT</string>
+    <string name="textview7">TextView</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+
+
+</resources>
